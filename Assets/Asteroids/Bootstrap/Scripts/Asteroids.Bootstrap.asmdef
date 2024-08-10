@@ -1,0 +1,20 @@
+{
+    "name": "Asteroids.Bootstrap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5d8a5bfb1213b764bad7fff2ac36dc0d",
+        "GUID:70134461537183f41a2dbe9e91824979",
+        "GUID:79e643f6fd8da9440b196d8c2c73e0d3",
+        "GUID:7be693832d515bc44843a95aecf6d817",
+        "GUID:388cc6e622a1480409ba2efd089e3316"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

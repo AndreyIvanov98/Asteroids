@@ -1,0 +1,16 @@
+{
+    "name": "Asteroids.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5d8a5bfb1213b764bad7fff2ac36dc0d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
